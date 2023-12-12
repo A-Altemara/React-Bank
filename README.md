@@ -4,6 +4,10 @@
 
 MIT XPRO Full Stack Project. Demostrates the React and bootstrap implementation of a minor banking application.
 
+## Try it here
+
+http://airiel-altemarabankingapplication.s3-website.us-east-2.amazonaws.com/#/CreateAccount
+
 ## Future Improvements
 
 - Add Show/ Hide password toggle option
