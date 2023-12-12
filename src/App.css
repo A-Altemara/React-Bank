@@ -1,0 +1,17 @@
+.active {
+	color: white !important;
+	font-weight: 700 !important;
+}
+
+body {
+	background-color: #212121;
+}
+
+nav {
+	background-color: rgb(17, 17, 94) !important;
+	color: white !important;
+}
+
+.card-body {
+	min-height: 300px;
+}
