@@ -21,7 +21,7 @@ http://airiel-altemarabankingapplication.s3-website.us-east-2.amazonaws.com/#/Cr
 Available Scripts
 In the project directory, you can run:
 
-npm start
+npm run dev
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
@@ -31,6 +31,10 @@ See the section about running tests for more information.
 
 npm run build
 Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+npm run gh-pages deploy
+Builds the app for production to the Github Pages build branch.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## MIT License
