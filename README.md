@@ -6,7 +6,7 @@ MIT XPRO Full Stack Project. Demostrates the React and bootstrap implementation 
 
 ## Try it here
 
-http://airiel-altemarabankingapplication.s3-website.us-east-2.amazonaws.com/#/CreateAccount
+https://a-altemara.github.io/React-Bank/
 
 ## Future Improvements
 
@@ -14,7 +14,6 @@ http://airiel-altemarabankingapplication.s3-website.us-east-2.amazonaws.com/#/Cr
 - Move controls for depost and withdrawal buttons into context
 - Extract all context into separate folder
 - Use context to fetch and handle API calls
-- Fully functional backend
 
 ## How to run dev
 
@@ -33,8 +32,8 @@ npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-npm run gh-pages deploy
-Builds the app for production to the Github Pages build branch.
+npm run deploy
+Builds the app for production and readies it for the Github Pages build branch.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## MIT License
