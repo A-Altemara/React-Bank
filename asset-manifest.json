@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Bank/static/css/main.8d6a2981.css",
+    "main.js": "/React-Bank/static/js/main.3d423fa6.js",
+    "static/js/787.b07861d1.chunk.js": "/React-Bank/static/js/787.b07861d1.chunk.js",
+    "static/media/marble-bank.png": "/React-Bank/static/media/marble-bank.c88109c78f776b31ff29.png",
+    "index.html": "/React-Bank/index.html",
+    "main.8d6a2981.css.map": "/React-Bank/static/css/main.8d6a2981.css.map",
+    "main.3d423fa6.js.map": "/React-Bank/static/js/main.3d423fa6.js.map",
+    "787.b07861d1.chunk.js.map": "/React-Bank/static/js/787.b07861d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a2981.css",
+    "static/js/main.3d423fa6.js"
+  ]
+}
